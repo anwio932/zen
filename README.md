@@ -1,4 +1,6 @@
 # zen
+https://www.interviewzen.com/interview/d7313055-6d84-4309-9613-f51f7c414773
+
 Quest 1: What type of kind resource you will use to store sensitive data in the Kubernetes cluster?
 Ans:    In Kubernative cluster, the kind of resource I will use to store sensitive data is API Authentication. I am using API authentication because sensitive                 information will need password and other ways of authenticating different users for different roles and responsibilities.
 
